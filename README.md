@@ -1,5 +1,5 @@
 # SamStudios
-SamStudios es un marco donde se encuentran los diseños y las páginas webs que ha desarrollado _Sam Hernández_ con el fin de que otros desarrolladores principantes, puedan usar los diseños y maquetaciones para fines comerciales o de negocios.
+SamStudios es un repositorio donde se encuentran los diseños y las páginas webs que ha desarrollado _Sam Hernández_ con el fin de que otros desarrolladores principantes, puedan usar los diseños y maquetaciones para fines comerciales o de negocios.
 
 Este repositorio proporciona una biblioteca distribuida por plugins para JavaScript, para mejoras del rendimiento de la web, y mejor visualización, hay muchas páginas web de diferentes variantes, agencias web, portafolios, E-commerce y más.
 
